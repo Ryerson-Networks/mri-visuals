@@ -1,7 +1,7 @@
 {
-    "short_name": "NeoDash",
-    "name": "NeoDash",
-    "homepage": "https://github.com/neo4j-labs/neodash/",
+    "short_name": "RyersonMRI",
+    "name": "Ryerson Mining Risk Inventory",
+    "homepage": "https://ryerson.ch/",
     "neo4jDesktop": {
         "apiVersion": "^1.2.0"
     },
@@ -19,4 +19,4 @@
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"
-}
+} 
