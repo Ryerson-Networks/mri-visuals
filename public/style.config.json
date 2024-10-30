@@ -1,1 +1,11 @@
-{}
+{
+  "DASHBOARD_HEADER_BRAND_LOGO": "ryerson-logo.png",
+  "DASHBOARD_HEADER_COLOR" : "#F3F3F0",
+  "DASHBOARD_HEADER_BUTTON_COLOR" : "#009999",
+  "DASHBOARD_HEADER_TITLE_COLOR" : "#00C1B6",
+  "DASHBOARD_PAGE_LIST_COLOR" : "#F3F3F0",
+  "DASHBOARD_PAGE_LIST_ACTIVE_COLOR": "#009999",
+  "style": {
+    "--palette-light-focus-bg-weak" : "243, 243, 240"
+  }
+}
