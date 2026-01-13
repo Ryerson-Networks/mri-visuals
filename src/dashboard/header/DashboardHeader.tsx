@@ -54,7 +54,7 @@ export const NeoDashboardHeader = ({
           <nav className='n-items-center n-justify-center n-flex n-flex-1 n-w-full n-font-semibold'>
             {customHeader && customHeader.length > 0
               ? `${customHeader}`
-              : `${connection.protocol}://${connection.url}:${connection.port}`}
+              : `${connection.url}:${connection.port}`}
           </nav>
           <div className='sm:n-flex n-items-center n-justify-end md:n-flex-1 lg:n-w-0 n-gap-6'>
             <div className='n-flex n-flex-row n-gap-x-2'>

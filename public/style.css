@@ -114,7 +114,7 @@
 
 .react-grid-item > .react-resizable-handle::after {
   border-right: 2px solid rgba(0, 0, 0, 0.4) !important;
-  border-bottom: 2px solid rgba(0, 0, 0, 0.4) !important;
+  border-bottom: 2px solid rgba(0, 120, 122, 1) !important;
 }
 
 .MuiDataGrid-footerContainer {
